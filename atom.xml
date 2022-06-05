@@ -3,14 +3,14 @@
   <title>Felix&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://felixgibson.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-06-05T07:01:19.399Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://felixgibson.github.io/"/>
+  <updated>2022-06-05T07:52:40.049Z</updated>
+  <id>https://felixgibson.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Felix Luo</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>经济学原理,好运气背后是三倍的努力和人生模式</title>
-    <link href="http://example.com/2022/06/05/2022-06-04/"/>
-    <id>http://example.com/2022/06/05/2022-06-04/</id>
-    <published>2022-06-05T07:01:19.399Z</published>
-    <updated>2022-06-05T07:01:19.399Z</updated>
+    <link href="https://felixgibson.github.io/2022/06/05/2022-06-04/"/>
+    <id>https://felixgibson.github.io/2022/06/05/2022-06-04/</id>
+    <published>2022-06-05T06:53:00.000Z</published>
+    <updated>2022-06-05T07:52:40.049Z</updated>
     
     <content type="html"><![CDATA[<h3 id="经济学原理"><a href="#经济学原理" class="headerlink" title="经济学原理"></a>经济学原理</h3><p>最近在读《经济学原理》这本书，它提到了一个观点，高福利可能会导致穷人不依靠自己力量脱贫。</p><blockquote><p>有很多旨在帮助穷人的不同政策。它们有意料之外的副作用。由于经济援助随着收入增加而减少，因此，穷人往往面临很高的有效边际税率。这种高有效税率不鼓励贫困家庭依靠自己的力量脱贫  </p></blockquote><h3 id="好运气背后是三倍的努力"><a href="#好运气背后是三倍的努力" class="headerlink" title="好运气背后是三倍的努力"></a>好运气背后是三倍的努力</h3><p>吴军在《态度》这本书中，提到“好运气背后是三倍的努力”。</p><blockquote><p>好运气背后是三倍的努力<br>范佛里特将军聪明的地方在于，他比其他人更多地估计了困难，留出足够的余地。这样，幸运的天平才偏向了他那一边<br>因此，孩子，如果你想获得10分的成绩，仅仅准备10分的努力是远远不够的，你可能要准备30分的努力。有时，我们看到某些人有一些运气，似乎偶然得到了他们想要的东西。其实，在这些运气背后，可能是30分的努力。我也不是从小就懂这个道理，而是经过了一些失败和挫折才理解的。直到今天，我在做事情前，都是先假设自己将遇到比别人更坏的运气。也正因为如此，我的准备通常比别人充足，从外界来看，我才有些好运气。</p></blockquote><h3 id="人生模式"><a href="#人生模式" class="headerlink" title="人生模式"></a>人生模式</h3><p>阳志平的《人生模式》这本书还是有非常多新观点的。承认自己在很多领域比不上别人，比如吉他，做饭，职场，或许可以让自己从焦虑和内卷之中缓解开来。</p><blockquote><p>心理韧性：那些韧性强的“标准六”能够意识到，自己在科研这样的领域可能做到“标准七”，但是在艺术等领域只能做到“标准三”。这样，他们的动机强度适中，自尊体系的来回切换不会导致情绪崩溃。   </p></blockquote><blockquote><p>不少韧性差的“标准六”会走向极端，在每个领域都伪装成“标准六”甚至“标准七”，但其心理不具备在不同领域来回切换的能力，整个人会绷得很紧。表面上看，他们具备高自尊，高成就动机。但是一旦在某个领域受到打击，而且这个打击还被社交网络前三层的韧感知到了，他们就会脆弱得失去动力，滑向“标准四”  </p></blockquote><h3 id="自控力"><a href="#自控力" class="headerlink" title="自控力"></a>自控力</h3><p>《自控力》一书中提到了一个难以预料的奖励的方法，个人觉得还比较实用。</p><blockquote><p>在戒酒和戒毒的过程中，最有效的干预治疗法被称为“鱼缸法”。这就证明了，难以预料的奖励究竟有多么强大的力量。和有保证的小奖励相比，我们的奖励系统面对可能获得的大奖会更加兴奋，它会促使我们去做任何可能获奖的事。这就是为什么人们宁愿买乐透彩票，也不愿把钱存到银行里。赚取有保障的2%的利息。这也就是为什么，即便是公司最底层的员工也相信自己有朝一日能成为CEO  </p></blockquote><p>比如，自己最近在尝试用saving account搭配随机奖励方法养成习惯和戒东西。比如自己跑了3公里，就用一个app抽奖，如果自己贪吃，那么就从saving account扣除一定金额的钱，发现还挺有用的。</p><h3 id="A-Mind-for-Numbers"><a href="#A-Mind-for-Numbers" class="headerlink" title="A Mind for Numbers"></a>A Mind for Numbers</h3><p>最近在看《A Mind for Numbers》书中的一个观点：</p><blockquote><p>Creativity is a numbers game: The best predictor of how many creative works we produce in our lifetime is the number of works we produce.   </p></blockquote><p>这让我想到了自己Github项目追求的应该是数量而不是质量。 </p><blockquote><p>many students experience illusions of competence when they are studying. “repeatedly read their notes or textbook(despite the limited benefits of this strategy), but relatively few engage in self-testing or retrieval practice while studying”  </p></blockquote><p>这种错觉似乎听常见的，自己经常会有这种感受，自己重复地去重头到尾读书，会发现自己似乎什么都懂，但面试的事后面对问题还是很难回答上来。这种问题可以通过自测self-testing或者用flashcards的方式得到解决。</p><h3 id="稳定"><a href="#稳定" class="headerlink" title="稳定"></a>稳定</h3><p>最近在公众号上发现了一个博主， ViviGoodenough，她在”近期碎片记录 | 智慧、关系与个人管理”-<a href="https://mp.weixin.qq.com/s?__biz=Mzg5MDE4NjI0NQ==&mid=2247487583&idx=1&sn=212d6debba0d94d419de077a7acc3f29&chksm=cfe12f35f896a623a2a41b909f5a64f2cf86487073e9f6b06e53f299436c5111601490f645bf#rd">mp.weixin.qq</a>中，提到了一个观点，自己深有感触。</p><blockquote><p>「学校的培养体制让人习惯在划定的框架里做事，你慢慢就变得希望别人来给自己定目标才不会觉得迷茫，对边界的探索频频被大人禁止，导致从小孩时候人就开始厌恶风险，长大后习惯循规守旧，也就是常说的“做题家思维”。中国社会要的是一种老黄牛耕地般的安宁感，不幸福也过得去，但只要觉得踏实就好，这思想钢印打得我们动弹不得。如此看来，长大就是一个想象力和创造力不断走向贫瘠的过程。  </p></blockquote><blockquote><p>中国传统文化里，受农耕文明的影响，非常重视“稳定”这个概念，在读费孝通先生的《乡土中国》时我也深刻体会到这种感觉  </p></blockquote>]]></content>
     
@@ -39,12 +39,12 @@
   
   <entry>
     <title>Formula for change，运气</title>
-    <link href="http://example.com/2022/06/05/2022-06-05/"/>
-    <id>http://example.com/2022/06/05/2022-06-05/</id>
+    <link href="https://felixgibson.github.io/2022/06/05/2022-06-05/"/>
+    <id>https://felixgibson.github.io/2022/06/05/2022-06-05/</id>
     <published>2022-06-05T06:53:00.000Z</published>
-    <updated>2022-06-05T07:01:19.399Z</updated>
+    <updated>2022-06-05T07:52:40.049Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Formula-for-change"><a href="#Formula-for-change" class="headerlink" title="Formula for change"></a>Formula for change</h3><p>wikipedia对Formula for change-<a href="https://en.wikipedia.org/wiki/Formula_for_change">wiki</a>的解释是这样的</p><blockquote><p>C &#x3D; A × B × D &gt; X<br>C is change;<br>A is the status quo dissatisfaction;<br>B is a desired clear state;<br>D is practical steps to the desired state;<br>X is the cost of the change.</p></blockquote><p>这让我想到如果想要改变，那么只需要增加这对应三个factor就可以了，其中第2个factor让自己联想到冷哲在<a href="https://www.zhihu.com/question/28098030/answer/53305160">贫穷无法改变吗</a>中提到的无知的无知，第3个factor对应目标的分解</p><h3 id="你可以创造运气"><a href="#你可以创造运气" class="headerlink" title="你可以创造运气"></a>你可以创造运气</h3><p>程序员的喵在<a href="https://catcoding.me/p/weekly-1/">“你可以创造运气”</a> 中提到了运气表面积的观点，挺有意思的。最近自己开始写博客，也是为了让自己接触到更多的人。</p><blockquote><p>Luck Surface Area： 运气表面积？这个理论阐述的是运气对每个人是公平的，只有扩大自己的运气横截面积，才能让自己运气更好。简而言之，我们需要做更多，并且把自己做的事分享出来。 </p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h3 id="Formula-for-change"><a href="#Formula-for-change" class="headerlink" title="Formula for change"></a>Formula for change</h3><p>wikipedia对Formula for change-<a href="https://en.wikipedia.org/wiki/Formula_for_change">wiki</a>的解释是这样的</p><blockquote><p>C &#x3D; A × B × D &gt; X<br>C is change;<br>A is the status quo dissatisfaction;<br>B is a desired clear state;<br>D is practical steps to the desired state;<br>X is the cost of the change.</p></blockquote><p>这让我想到如果想要改变，那么只需要增加这对应三个factor就可以了，其中第2个factor让自己联想到冷哲在<a href="https://www.zhihu.com/question/28098030/answer/53305160">贫穷无法改变吗</a>中提到的无知的无知，第3个factor对应目标的分解</p><h3 id="你可以创造运气"><a href="#你可以创造运气" class="headerlink" title="你可以创造运气"></a>你可以创造运气</h3><p>程序员的喵在<a href="https://catcoding.me/p/weekly-1/">“你可以创造运气”</a> 中提到了运气表面积的观点，挺有意思的。最近自己开始写博客，也是为了让自己接触到更多的人。</p><blockquote><p>Luck Surface Area： 运气表面积？这个理论阐述的是运气对每个人是公平的，只有扩大自己的运气横截面积，才能让自己运气更好。简而言之，我们需要做更多，并且把自己做的事分享出来。  </p></blockquote>]]></content>
     
     
       
